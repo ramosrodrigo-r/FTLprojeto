@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FTL Brasil - Storytelling</title>
+</head>
+<body>
+  <eox-storytelling id="story" markdown-url="/elnino2.md"></eox-storytelling>
+
+  <script type="module">
+    import "@eox/storytelling";
+    import "@eox/map"; // needed for the map sections
+    // Plugins imported from src/ (as in the EOxElements docs) so they share the same OpenLayers copy as "@eox/map"
+    import "@eox/map/src/plugins/globe"; // required for projection="globe"
+    import "@eox/map/src/plugins/advancedLayersAndSources"; // required for type: "STAC" layers
+
+    Object.assign(document.getElementById("story"), { showNav: true });
+  </script>
+</body>
+</html>
