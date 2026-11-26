@@ -96,12 +96,12 @@ Através de dados do AIRS L3 conseguimos registrar as concentrações de monóxi
 ## Agradecimentos
 
 Através do Future Tech Leaders, esse projeto em grupo é constituído por:
+- Rodrigo Ramos Rebouças
 - Andreza de Souza Dias
 - Laíne Reis de Moura
 - Laissa
 - Melissa Francesca de Souza Raymundo
 - Renato Ferraz de Mendonça Coelho
-- Rodrigo Ramos Rebouças
 - Samuel Castro de Castro
 
 ![logo](assets/logos/union_logo.png) <!--{ style="width: 100%; max-width: 720px; display: block; margin: 1rem auto;" }-->
