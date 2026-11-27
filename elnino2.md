@@ -91,6 +91,21 @@ Através de dados do AIRS L3 conseguimos registrar as concentrações de monóxi
 
 *Fonte: NASA GIBS.*
 
+## Sul do Brasil: impactos
+## Chubvas no Sul <!--{ as="img" mode="tour" style="object-fit: contain; background: #ffffff;" }-->
+### <!--{ src="assets/regiao_sul/sudoeste-parana.webp" }-->
+
+#### Chuvas intensas no Paraná
+Nos dias 23 e 24 de novembro de 2026, fortes chuvas atingiram as regiões Oeste e Sudoeste do Paraná, provocando enchentes repentinas, mortes e impactos em cerca de 40 municípios. O cenário é compatível com a influência do El Niño sobre o Sul do Brasil, que costuma favorecer volumes elevados de chuva na região, embora não seja correto atribuir um evento isolado exclusivamente ao fenômeno.
+
+
+#### Efeitos diferentes em diferentes regiões
+Em outubro de 2026, o Brasil apresentou um contraste marcante na distribuição das chuvas. Enquanto áreas do centro-norte registraram precipitações abaixo da média, o centro-sul teve volumes superiores ao esperado. Na Região Sul, com exceção do Rio Grande do Sul, foram observados recordes de chuva, segundo o INMET. Esse comportamento contrasta com as condições observadas no Nordeste e na Amazônia.
+
+
+
+## El Niño no Sul do Brasil
+ O El Niño altera a circulação atmosférica e costuma influenciar o regime de chuvas no Brasil, favorecendo mais precipitações no Sul e condições mais secas no centro-norte do país. Em outubro de 2026, esse padrão ficou evidente nos dados do INMET, que registraram chuva abaixo da média no centro-norte e volumes acima da média no centro-sul, com recordes em estados da Região Sul. No fim de novembro, o Paraná também foi atingido por enchentes repentinas que causaram seis mortes e impactaram dezenas de municípios. Embora não seja possível afirmar que um evento específico tenha sido causado exclusivamente pelo El Niño, essa situação é compatível com os efeitos normalmente associados ao fenômeno.
 
 
 ## Agradecimentos
